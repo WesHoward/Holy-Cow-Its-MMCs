@@ -1,0 +1,6 @@
+example.com, Gaggle, Paid Search, Keyword, examples
+http://www.example.com, Gaggle, Paid Search, Keyword
+http://www.example.com, Gaggle, Paid Search, Keyword, examples
+http://www.example.com/?test=whaaaaaat, Gaggle, Paid Search, Keyword, examples
+http://www.example.com, Gaggle, Paid Search, Keyword, ${keyword}
+https://ru.wikipedia.org/wiki/Тест, Gaggle, Paid Search, Keyword, cyrillic
